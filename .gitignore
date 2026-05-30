@@ -1,0 +1,45 @@
+# Build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/*.cmake
+
+# Visual Studio files
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.ipch
+*.opensdf
+*.vscode/
+
+# Compiled output
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.ipdb
+*.idb
+
+# Generated directories
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# OpenCV / runtime data
+*.xml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.bak
